@@ -21,8 +21,8 @@
 	  
     <classes>
        <class name="TestCases.TC_001_AccountRegistrationTest"/> 
-      <class name="TestCases.TC_002_LoginTest"/>
-      <!--<class name="TestCases.copy_TC_003_LoginDDT"/>-->
+      <!--<class name="TestCases.TC_002_LoginTest"/>
+      <class name="TestCases.copy_TC_003_LoginDDT"/>-->
      
     </classes>
   </test> <!-- Test -->
